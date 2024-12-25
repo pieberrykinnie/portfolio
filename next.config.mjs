@@ -7,7 +7,7 @@ const NextConfig = (phase) => {
 
         const nextConfig = {
                 output: isDev ? undefined : 'export',
-                // basePath: isDev ? undefined : '/portfolio',
+                basePath: isDev ? undefined : '/portfolio',
                 // assetPrefix: isDev ? undefined : 'https://pieberrykinnie.github.io/portfolio/',
         };
 
