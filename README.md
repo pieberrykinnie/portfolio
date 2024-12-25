@@ -29,7 +29,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 - Photo by Oleksandr P: https://www.pexels.com/photo/handara-gate-uner-blue-sky-2166553/
 - Photo by Juan Pablo Serrano : https://www.pexels.com/photo/library-interior-877971/
 
-### favicon
+#### favicon
 
 - Art by [Chieu Duong](https://chieuduong.carrd.co/)
 
