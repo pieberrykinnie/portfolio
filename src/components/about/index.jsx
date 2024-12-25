@@ -10,17 +10,17 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className='font-light text-xs sm:text-sm md:text-base'>
-            I like video games and sonic the hedgehog
+            I&#039;m Peter, a second-year Computer Science Honours student minoring in Mathematics and Film Studies at the University of Manitoba! Long before attending university, I practiced web and game development and it drove me to where I am today. Aside from my software experience, I also have research experience in theoretical computer science and computer science education, and I&#039;ll be researching machine learning applications in computer vision. I love to build things and better myself as a student, developer, researcher and teacher. I hope one day I can inspire you to work your hardest and find your passion in technology!
           </p>
         </ItemLayout>
         <ItemLayout className={'col-span-full xs:col-span-6 lg:col-span-4 text-accent'}>
           <p className='font-semibold w-full text-left text-2xl sm:text-5xl'>
-            25+ <sub className="font-semibold text-base">clients</sub>
+            &gt;4.3 <sub className="font-semibold text-base">GPA</sub>
           </p>
         </ItemLayout>
         <ItemLayout className={'col-span-full xs:col-span-6 lg:col-span-4 text-accent'}>
           <p className='font-semibold w-full text-left text-2xl sm:text-5xl'>
-            4+ <sub className="font-semibold text-base">years of experience</sub>
+            8+ <sub className="font-semibold text-base">months of experience</sub>
           </p>
         </ItemLayout>
         <ItemLayout className={'col-span-full sm:col-span-6 md:col-span-4 !p-0'}>

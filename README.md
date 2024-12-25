@@ -1,10 +1,6 @@
-# Next.js Creative Portfolio Tutorial: Build Amazing Portfolio Website with Next.js, Three.js, and Tailwind CSS 🔥
+# Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
-
-This repository contains **starter code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
+Based on CodeBucks27's Next.js Creative Portfolio tutorial:
 
 For Demo checkout following link👇: <br />
 [Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
@@ -18,43 +14,24 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
 )](https://youtu.be/T5t46vuW8fo) <br />
 
-💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
-
----
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
----
-
-## Images of The Portfolio Website:
-
-#### Home
-![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
-
-#### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
-
-#### Projects
-![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
-
-#### Contact
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
-
-#### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
-
 ## Resources Used in This Project
 
 #### 3D Models
 
-- ["Tim Mckee - Boy Wizard"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
+- ["Little Witch Academia"](https://skfb.ly/68rny) by [qnaman is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - ["Stylized wizard hat"](https://skfb.ly/ozxOQ) by [Enkarra is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - ["Wizard Staff"](https://skfb.ly/6QYZw) by [Toymancer Studio is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
-#### AI Images
+#### Background Images
 
-- Created with the help of [Playground AI](https://playgroundai.com/)
+- Photo by Pixabay: https://www.pexels.com/photo/close-up-photo-of-glowing-blue-butterflies-326055/
+- Photo by eberhard grossgasteiger: https://www.pexels.com/photo/sunlight-filtering-through-majestic-forest-trees-28871326/
+- Photo by Oleksandr P: https://www.pexels.com/photo/handara-gate-uner-blue-sky-2166553/
+- Photo by Juan Pablo Serrano : https://www.pexels.com/photo/library-interior-877971/
+
+### favicon
+
+- Art by [Chieu Duong](https://chieuduong.carrd.co/)
 
 #### Github Stats & Details
 

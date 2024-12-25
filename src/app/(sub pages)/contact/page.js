@@ -13,7 +13,7 @@ export default function Contact() {
             summon the witch
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            say hi to me
+            I&#039;m always open to professional and casual opportunities! Whether you are an industry or academia representative who has taken a liking to me, or a fellow student seeking advice in Computer Science, I would love to chat with you!
           </p>
           <Form />
         </div>
