@@ -6,8 +6,8 @@ const NextConfig = (phase) => {
         /** @type {import('next').NextConfig} */
 
         const nextConfig = {
-                output: isDev ? undefined : 'export',
-                basePath: isDev ? undefined : '/portfolio',
+                // output: isDev ? undefined : 'export',
+                // basePath: isDev ? undefined : '/portfolio',
                 // assetPrefix: isDev ? undefined : 'https://pieberrykinnie.github.io/portfolio/',
         };
 
