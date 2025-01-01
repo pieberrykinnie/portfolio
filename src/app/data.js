@@ -164,6 +164,13 @@ export const projectsData = [
     date: "2024-12-24",
     demoLink: "https://github.com/pieberrykinnie/portfolio",
   },
+  {
+    id: 22,
+    name: "To Do List",
+    description: "Dockerized PERN with JWT",
+    date: "2024-12-30",
+    demoLink: "https://github.com/pieberrykinnie/auth-todo-app-better",
+  },
 ].reverse();
 
 export const BtnList = [
