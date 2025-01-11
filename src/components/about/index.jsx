@@ -15,12 +15,12 @@ const AboutDetails = () => {
         </ItemLayout>
         <ItemLayout className={'col-span-full xs:col-span-6 lg:col-span-4 text-accent'}>
           <p className='font-semibold w-full text-left text-2xl sm:text-5xl'>
-            &gt;4.3 <sub className="font-semibold text-base">GPA</sub>
+            &gt;4.2 <sub className="font-semibold text-base">GPA</sub>
           </p>
         </ItemLayout>
         <ItemLayout className={'col-span-full xs:col-span-6 lg:col-span-4 text-accent'}>
           <p className='font-semibold w-full text-left text-2xl sm:text-5xl'>
-            8+ <sub className="font-semibold text-base">months of experience</sub>
+            3+ <sub className="font-semibold text-base">fields of experience</sub>
           </p>
         </ItemLayout>
         <ItemLayout className={'col-span-full sm:col-span-6 md:col-span-4 !p-0'}>
