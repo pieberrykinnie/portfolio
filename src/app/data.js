@@ -205,9 +205,9 @@ export const BtnList = [
     newTab: true,
   },
   {
-    label: "Instagram",
-    link: "https://www.instagram.com/moccamori",
-    icon: "instagram",
+    label: "Facebook",
+    link: "https://www.facebook.com/profile.php?id=61572076138833",
+    icon: "facebook",
     newTab: true,
   },
   {
